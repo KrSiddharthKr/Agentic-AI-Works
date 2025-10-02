@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+
+# API Keys
+*.key
+secrets/
+
+# Logs
+*.log
+logs/
+
+# Test files
+test_*.pdf
+temp/
