@@ -1,0 +1,7 @@
+crewai
+pdfplumber
+openai
+jsonschema
+python-docx
+pillow
+pydantic
